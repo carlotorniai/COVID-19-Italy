@@ -1,0 +1,23 @@
+,Regione,Ricoverati con sintomi,Terapia Intensiva,Isolamento Domiciliare,Totale,Dimessi Guariti,Deceduti,Totale Positivi,Tamponi
+0,Lombardia,235.0,47.0,192.0,474,40.0,17.0,531,4835.0
+1,Veneto,24.0,9.0,116.0,149,,2.0,151,7414.0
+2,Emila Romanga,56.0,6.0,81.0,143,,2.0,145,1277.0
+3,Liguria,9.0,,10.0,19,,,19,112.0
+4,Piemonte,7.0,,4.0,11,,,11,227.0
+5,Toscana,5.0,,2.0,7,1.0,,8,437.0
+6,Marche ,3.0,2.0,1.0,6,,,6,47.0
+7,Sicilia,1.0,,1.0,2,2.0,,4,5.0
+8,Lazio,,,,0,3.0,,3,611.0
+9,Campania,2.0,,2.0,4,,,4,213.0
+10,Puglia,1.0,,2.0,3,,,3,242.0
+11,Bolzano,1.0,,,1,,,1,2.0
+12,Abruzzo,1.0,,,1,,,1,33.0
+13,Calabria,,,1.0,1,,,1,21.0
+14,Sardegna,,,,0,,,0,1.0
+15,Umbria,,,,0,,,0,8.0
+16,Valle D'Aosta,,,,0,,,0,9.0
+17,Friuli V.G.,,,,0,,,0,169.0
+18,Trento ,,,,0,,,0,32.0
+19,Molise,,,,0,,,0,
+20,Basilicata,,,,0,,,0,
+21,Somma Totale,345.0,64.0,412.0,821,46.0,21.0,888,15695.0
