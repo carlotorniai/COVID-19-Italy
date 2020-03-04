@@ -1,9 +1,6 @@
 # COVID-19-Italy
 
 Repository of data related to spread of COVID-19 in Italy. 
-Latest update figures:
-
-![Latest Figures][https://github.com/carlotorniai/COVID-19-Italy/blob/develop/plots/positive_patients_04-03-2020_ita.png?raw=true]
 
 ## Description 
 
