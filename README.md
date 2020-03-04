@@ -3,7 +3,6 @@
 Repository of data related to spread of COVID-19 in Italy. 
 Latest update figures:
 
-![Latest Figures][plots/positive_patients_04-03-2020_eng.png]
 
 ## Description 
 
