@@ -33,8 +33,8 @@ import csv
 
 CLIENT_SECRET = "../secret/client_secret.json"
 FILE_MASTERLIST = '../data/covid-19_IT.xlsx'
+FILE_SUMMARY = '../data/generated_summary.xlsx'
 OUTPUT_DIRECTORY = 'Output/'
-df = pd.read_excel(FILE_MASTERLIST)
 
 
 # --------------------------------
@@ -89,6 +89,8 @@ def writeToGDrive(filename,source,folder_id):
 
 def main():
     writeToGDrive('covid-19_IT.xls', FILE_MASTERLIST, PARENT_FOLDER)
+    writeToGDrive('generated_summary.xlsx', FILE_SUMMARY, PARENT_FOLDER)
+
 
 if __name__ == '__main__':
     main()
