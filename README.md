@@ -1,5 +1,11 @@
 # COVID-19-Italy
 
+
+## Update
+
+Since March 7th 2020 official data are made available [here](https://github.com/pcm-dpc/COVID-19 "COVID_19"). So I won't be updating this repo any longer. 
+
+
 Repository of data related to spread of COVID-19 in Italy. 
 
 ## Description 
